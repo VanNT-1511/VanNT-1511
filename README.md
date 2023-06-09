@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Thuong Van!!!!
 - 🏠 I'm from Hanoi City, Vietnam.
 - 💻 I'm an Information Technology student.
-- 🙃 I learn programming languages JAVA, WEB, MOBILE,....
+- 🙃 I learn programming languages JAVA, WEB,....
 - 🙋 Contact me by GitHub or Email or LinkIn
 - 📧: van1511184@gmail.com
 - 👉: https://www.linkedin.com/in/nguyễn-thượng-văn-648692213/
